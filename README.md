@@ -99,7 +99,7 @@
     "Weapon": 1.0,
     "Construction": 1.0,
     "Items": 1.0,
-    "Resources": 1.0,
+    "Resources": 2.0,
     "Attire": 1.0,
     "Tool": 1.0,
     "Medical": 1.0,
